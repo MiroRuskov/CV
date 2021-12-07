@@ -56,8 +56,15 @@ h5,
 }
 
 .aside .image-logo img {
-    width: 35%;
+    width: 45%;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    padding-left: 0px
+}
+
+.aside .image-QR img {
+    width: 45%;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    padding-left: 60px
 }
 
 .aside div {
